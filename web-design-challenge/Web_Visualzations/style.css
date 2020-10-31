@@ -1,0 +1,16 @@
+body{
+    background-color: white
+  }
+
+  .box {
+    margin-top: 20px; 
+    margin-bottom: 22px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+  }
+
+  h3 {text-align: left;
+    color: rgb(0, 162, 255);
+
+  }
